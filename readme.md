@@ -5,10 +5,10 @@
 В cutTags.php код для вырезания тегов и он же выводит страницу уже без этих тегов. 
 
 Вот HTML c тегами на удаление:
-![Everything is worked](toCut.jpg)
+![Everything is worked](../img/toCut.jpg)
 
 ---
 
 А вот результат без этих тегов:
-![Everything is worked](Done.jpg)
+![Everything is worked](../img/Done.jpg)
 
